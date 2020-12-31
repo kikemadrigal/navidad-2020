@@ -108,7 +108,7 @@ goto:eof
 echo "sjasm no existe: visite http://www.xl2s.tk/"
 goto end
 :delete_comments_no_exist
-echo "No existe deletecommits, visite msx.tipolisto/pm"
+echo "No existe deletecommits, visite msx.tipolisto/files"
 goto end
 :disk_manager_no_exist
 echo "No existe disk-manager, visite http://www.lexlechz.at/en/software.html"
